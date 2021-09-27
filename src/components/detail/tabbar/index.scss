@@ -1,0 +1,32 @@
+.tabbar {
+  .img {
+    width: 40px;
+    height: 40px;
+  }
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding:10px 20px;
+  .carts-btn {
+    background: #fdcf00;
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+    height: 80px;
+    line-height: 80px;
+  }
+  .pay-btn {
+    background: #fd9b00;
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 40px;
+    height: 80px;
+    line-height: 80px;
+  }
+  .brage {
+    position: absolute;
+    top: 0;
+    left: 290px;
+    background: #fd9b00;
+    height: 50px;
+    width: 50px;
+  }
+}

@@ -1,0 +1,43 @@
+$color:#ff5934;
+
+.recommnav {
+  .recomm-pro {
+    .cover-dv {
+      background: #fdfdfd;
+
+      .cover {
+        width: 300px;
+        height: 300px;
+      }
+    }
+
+    .item {
+      width: 48%;
+    }
+
+    .name {
+      width: 200px;
+    }
+  }
+
+  .scrollview {
+    position: sticky;
+    top: 0;
+    background: #f2f2f2;
+  }
+
+  .desc {
+    padding: 4px 10px;
+  }
+
+  .active {
+    .name {
+      color: $color;
+    }
+
+    .desc {
+      color: #fff;
+      background: $color;
+    }
+  }
+}

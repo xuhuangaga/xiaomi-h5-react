@@ -1,0 +1,25 @@
+.proList {
+  .jt-d {
+    height: 70px;
+
+    .jt {
+      width: 30px;
+      height: 30px;
+    }
+  }
+  .item {
+    .img {
+      width: 200px;
+      height: 200px;
+    }
+    .name {
+      width: 500px;
+    }
+  }
+  .sc {
+    height: 1100px !important;
+  }
+  .active {
+    color:#ff5934;
+  }
+}

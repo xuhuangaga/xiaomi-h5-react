@@ -1,0 +1,30 @@
+.spec-b {
+  .item {
+    border: 1px solid #eee;
+    padding: 10px 20px;
+  }
+  .active {
+    border:1px solid #ff5934;
+  }
+  .tk-b {
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    .carts-btn {
+      background: #fdcf00;
+      border-top-left-radius: 40px;
+      border-bottom-left-radius: 40px;
+      height: 80px;
+      line-height: 80px;
+    }
+
+    .pay-btn {
+      background: #fd9b00;
+      border-top-right-radius: 40px;
+      border-bottom-right-radius: 40px;
+      height: 80px;
+      line-height: 80px;
+    }
+  }
+}

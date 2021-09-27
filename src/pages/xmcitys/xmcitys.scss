@@ -1,0 +1,22 @@
+.xm-citys {
+  .search {
+    position: sticky;
+    top: 0px;
+    left: 20px;
+    right: 20px;
+  }
+
+  .sc {
+    height: 1500px;
+  }
+
+  .bar {
+    right: 40px;
+    top: 20%;
+
+    .item {
+      color: #6190e8;
+      margin-bottom: 6px;
+    }
+  }
+}

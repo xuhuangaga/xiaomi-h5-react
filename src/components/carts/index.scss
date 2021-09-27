@@ -1,0 +1,28 @@
+.carts-b {
+  .item {
+    .img {
+      width: 200px;
+      height: 200px;
+    }
+    .info {
+      width: 300px;
+    }
+    .name {
+      width: 300px;
+    }
+  }
+  .b-px {
+    bottom: 100px;
+  }
+  .b-px1 {
+    bottom: 40px;
+  }
+  .bottom {
+    left: 0;
+    right: 0;
+    .pay {
+      background: #ff5934;
+      padding:10px 20px;
+    }
+  }
+}

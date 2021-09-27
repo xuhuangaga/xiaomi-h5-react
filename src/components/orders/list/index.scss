@@ -1,0 +1,53 @@
+.orders {
+  .item {
+    .img {
+      width: 200px;
+      height: 200px;
+    }
+
+    .info {
+      width: 300px;
+    }
+
+    .name {
+      width: 300px;
+    }
+  }
+  .bottom {
+    bottom: 0;
+    left: 0;
+    right: 0;
+    .pay {
+      background: #ff5934;
+      padding: 10px 20px;
+    }
+  }
+  .keyboard {
+    .item {
+      width: 27%;
+      border: 1px solid #eee;
+    }
+  }
+  .at-float-layout--active .at-float-layout__container {
+    min-height: 420px;
+    max-height: 420px;
+  }
+  .psd-box {
+    position: absolute;
+    z-index: 2000;
+    top: 500px;
+    height: 100px;
+    right: 20px;
+    left: 20px;
+    .psd {
+      border:1px solid #eee;
+      width: 100px;
+      height: 100px;
+      div {
+        width: 20px;
+        height: 20px;
+        background: #000;
+      }
+    }
+  }
+}

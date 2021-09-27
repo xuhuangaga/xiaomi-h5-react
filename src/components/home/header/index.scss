@@ -1,0 +1,27 @@
+.header {
+  padding: 10px 20px;
+
+  .logo {
+    width: 50px;
+    height: 40px;
+  }
+
+  .user {
+    width: 40px;
+    height: 40px;
+  }
+
+  .sousuo {
+    width: 40px;
+    height: 40px;
+  }
+
+  .search {
+    border: 2px solid #eee;
+    padding: 10px 5px;
+    .placehoder {
+      color: #ccc;
+      font-size: 24px;
+    }
+  }
+}

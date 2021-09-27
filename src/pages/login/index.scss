@@ -1,0 +1,25 @@
+.login {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+  .top {
+    .log-dv {
+      margin-top: -320px;
+      .log {
+        width: 80px;
+        height: 80px;
+      }
+    }
+
+    .bgc {
+      width: 750px;
+      height: 300px;
+    }
+  }
+  .form {
+    margin-top: 200px;
+  }
+}
